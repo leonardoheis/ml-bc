@@ -18,6 +18,7 @@ except FileNotFoundError as e:
     model = None
     preprocessor = None 
  
+# Predict endpoint
 @app.route("/predict", methods=["POST"])
 def predict():
     try:
