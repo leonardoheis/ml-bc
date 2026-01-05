@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ammarmohanna/Desktop/oreilly-mlops-bootcamp/Day%201/lesson-6-ci-cd/mlruns/610701116881259007/39e1805b339244339c7887694de32164/artifacts
+end_time: 1767612578563
+entry_point_name: ''
+experiment_id: '610701116881259007'
+lifecycle_stage: active
+run_id: 39e1805b339244339c7887694de32164
+run_name: nosy-fox-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767612568966
+status: 3
+tags: []
+user_id: Ammar
